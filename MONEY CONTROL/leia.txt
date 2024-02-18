@@ -1,0 +1,11 @@
+para rodar o projeto abra o terminal e digite os comandos abaixo;
+
+npm i
+
+npm install -g json-server
+
+para rodar o projeto digite os comandos abaixo.
+
+json-server --watch server.json
+
+npm run dev
